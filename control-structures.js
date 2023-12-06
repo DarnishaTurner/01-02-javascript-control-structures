@@ -2,6 +2,8 @@ for (let i = 0; i < 5; i++){
     console.log(`Number ${i}`);
 }
 
+let name = `Bob`;
+
 if(name === `Bob`) {
     console.log(`Hello Bob!`);
 } else {
